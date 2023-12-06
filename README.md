@@ -1,0 +1,1 @@
+# Brute-Force-for-Convex-Hull-and-Rabin-Karp-Pattern-Matching-using-OPENMP-and-MPI-
